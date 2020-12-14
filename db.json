@@ -1,0 +1,100 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "dmarcus",
+        "email": "dmarcus@wir.com",
+        "password": "member",
+        "organization": "Myriddian",
+        "role": "Project Manager"
+      },
+      {
+        "id": "2",
+        "username": "ghammond",
+        "email": "ghammond@wir.com",
+        "password": "member",
+        "organization": "Myriddian",
+        "role": "Project Manager"
+      },
+      {
+        "id": "3",
+        "username": "jmyers",
+        "email": "jmyers@wir.com",
+        "password": "member",
+        "organization": "Myriddian",
+        "role": "Administrator"
+      },
+      {
+        "id": "4",
+        "username": "mraillard",
+        "email": "mraillard@wir.com",
+        "password": "member",
+        "organization": "Ablevets",
+        "role": "Developer"
+      },
+      {
+        "id": "5",
+        "username": "rhancock",
+        "email": "rhancock@wir.com",
+        "password": "member",
+        "organization": "Myriddian",
+        "role": "Developer"
+      },
+      {
+        "id": "6",
+        "username": "jray",
+        "email": "jray@wir.com",
+        "password": "member",
+        "organization": "Ablevets",
+        "role": "Tech Lead"
+      },
+      {
+        "id": "7",
+        "username": "azimmerman",
+        "email": "azimmerman@wir.com",
+        "password": "member",
+        "organization": "Ablevets",
+        "role": "Tech Lead"
+      },
+      {
+        "id": "8",
+        "username": "vmedithi",
+        "email": "vmedithi@wir.com",
+        "password": "member",
+        "organization": "Myriddian",
+        "role": "Healthcare Consultant"
+      },
+      {
+        "id": "9",
+        "username": "jcantrell",
+        "email": "jcantrell@wir.com",
+        "password": "member",
+        "organization": "Ablevets",
+        "role": "Administrator"
+      },
+      {
+        "id": "10",
+        "username": "smendonsa",
+        "email": "smendonsa@wir.com",
+        "password": "member",
+        "organization": "Ablevets",
+        "role": "Project Manager"
+      },
+      {
+        "id": "11",
+        "username": "lletwo",
+        "email": "lletwo@wir.com",
+        "password": "member",
+        "organization": "Myriddian",
+        "role": "Unassigned"
+      },
+      {
+        "id": "12",
+        "username": "mnigussie",
+        "email": "mnigussie@wir.com",
+        "password": "member",
+        "organization": "Ablevets",
+        "role": "Developer"
+      }
+    ]
+  }

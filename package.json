@@ -1,0 +1,22 @@
+{
+  "name": "wirloginserver",
+  "version": "1.0.0",
+  "description": "temporary api for wir login",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch -p 4001 db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlraillard/wirloginserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlraillard/wirloginserver/issues"
+  },
+  "homepage": "https://github.com/mlraillard/wirloginserver#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
