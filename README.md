@@ -3,9 +3,11 @@ temporary login users
 
 to install:
 
-a) clone (in the same dir as wir-web)
-b) npm install
-c) to run: npm run json:server
+clone (in the same dir as wir-web)
+
+npm install
+
+to run: npm run json:server
 
 the service runs on port 4001
 
