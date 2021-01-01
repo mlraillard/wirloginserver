@@ -87,7 +87,7 @@
         "email": "ghammond@wir.com",
         "password": "member",
         "organization": 1,
-        "role": 2
+        "role": 5
       },
       {
         "id": 3,
@@ -95,7 +95,7 @@
         "email": "jmyers@wir.com",
         "password": "member",
         "organization": 1,
-        "role": 1
+        "role": 2
       },
       {
         "id": 4,
@@ -119,7 +119,7 @@
         "email": "jray@wir.com",
         "password": "member",
         "organization": 2,
-        "role": 6
+        "role": 5
       },
       {
         "id": 7,
@@ -127,7 +127,7 @@
         "email": "azimmerman@wir.com",
         "password": "member",
         "organization": 2,
-        "role": 6
+        "role": 5
       },
       {
         "id": 8,
@@ -135,7 +135,7 @@
         "email": "vmedithi@wir.com",
         "password": "member",
         "organization": 1,
-        "role": 3
+        "role": 2
       },
       {
         "id": 9,
@@ -143,7 +143,7 @@
         "email": "jcantrell@wir.com",
         "password": "member",
         "organization": 2,
-        "role": 1
+        "role": 2
       },
       {
         "id": 10,
@@ -220,7 +220,7 @@
         "location": "headerLeft",
         "parent_id": null,
         "sequence_id": 1,
-        "appname": "AppOne",
+        "appname": "appOne",
         "desc": "App One",
         "active": true
       },
@@ -229,16 +229,16 @@
         "location": "headerLeft",
         "parent_id": null,
         "sequence_id": 2,
-        "appname": "AppTwo",
+        "appname": "appTwo",
         "desc": "App Two",
         "active": true
       },
       {
         "id": 3,
         "location": "headerLeft",
-        "parent_id": null,
+        "parent_id": "parent",
         "sequence_id": 3,
-        "appname": "AppThree",
+        "appname": "",
         "desc": "App Three",
         "active": true
       },
@@ -247,7 +247,7 @@
         "location": "headerLeft",
         "parent_id": 3,
         "sequence_id": 1,
-        "appname": "AppThreeA",
+        "appname": "appThreeA",
         "desc": "App Three A",
         "active": true
       },
@@ -256,7 +256,7 @@
         "location": "headerLeft",
         "parent_id": 3,
         "sequence_id": 2,
-        "appname": "AppThreeB",
+        "appname": "appThreeB",
         "desc": "App Three B",
         "active": true
       },
@@ -265,7 +265,7 @@
         "location": "headerLeft",
         "parent_id": 3,
         "sequence_id": 3,
-        "appname": "AppThreeC",
+        "appname": "appThreeC",
         "desc": "App Three C",
         "active": true
       },
@@ -274,7 +274,7 @@
         "location": "headerLeft",
         "parent_id": null,
         "sequence_id": 4,
-        "appname": "AppFour",
+        "appname": "appFour",
         "desc": "App Four",
         "active": true
       },
@@ -283,25 +283,25 @@
         "location": "headerRight",
         "parent_id": null,
         "sequence_id": 1,
-        "appname": "AppFive",
+        "appname": "appFive",
         "desc": "App Five",
         "active": true
       },
       {
         "id": 9,
-        "location": "headerRight",
-        "parent_id": null,
+        "location": "headerAccount",
+        "parent_id": "parent",
         "sequence_id": 2,
-        "appname": "AppAccount",
+        "appname": "",
         "desc": "App Account",
         "active": true
       },
       {
         "id": 10,
-        "location": "headerRight",
+        "location": "headerAccount",
         "parent_id": 9,
         "sequence_id": 1,
-        "appname": "AppUserInfo",
+        "appname": "appUserInfo",
         "desc": "App User Info",
         "active": true
       },
@@ -310,7 +310,7 @@
         "location": "headerRight",
         "parent_id": 9,
         "sequence_id": 2,
-        "appname": "AppLogout",
+        "appname": "appLogout",
         "desc": "App Logout",
         "active": true
       }
@@ -370,6 +370,131 @@
         "appId": 11,
         "organizationId": 2,
         "roleId": 5
+      },
+      {
+        "appId": 1,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 2,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 3,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 4,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 5,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 6,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 7,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 8,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 9,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 10,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 11,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 1,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 3,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 4,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 5,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 9,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 10,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 11,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 1,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 3,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 4,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 5,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 9,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 10,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 11,
+        "organizationId": 2,
+        "roleId": 2
       }
     ]
   }
