@@ -313,7 +313,142 @@
         "appname": "appLogout",
         "desc": "App Logout",
         "active": true
-      }
+      },
+      {
+        "id": 12,
+        "location": "leftNav",
+        "parent_id": "parent",
+        "sequence_id": 1,
+        "appname": "sideApp1",
+        "desc": "App 1",
+        "active": true
+      },
+      {
+        "id": 13,
+        "location": "leftNav",
+        "parent_id": 1,
+        "sequence_id": 1,
+        "appname": "sideOneA",
+        "desc": "Side One A",
+        "active": true
+      },
+      {
+        "id": 14,
+        "location": "leftNav",
+        "parent_id": 1,
+        "sequence_id": 2,
+        "appname": "sideApp1b",
+        "desc": "App 1b",
+        "active": true
+      },
+      {
+        "id": 15,
+        "location": "leftNav",
+        "parent_id": "parent",
+        "sequence_id": 2,
+        "appname": "sideApp2",
+        "desc": "App 2",
+        "active": true
+      },
+      {
+        "id": 16,
+        "location": "leftNav",
+        "parent_id": 2,
+        "sequence_id": 1,
+        "appname": "sideApp2a",
+        "desc": "App 2a",
+        "active": true
+      },
+      {
+        "id": 17,
+        "location": "leftNav",
+        "parent_id": 2,
+        "sequence_id": 2,
+        "appname": "sideApp2b",
+        "desc": "App 2b",
+        "active": true
+      },
+      {
+        "id": 18,
+        "location": "leftNav",
+        "parent_id": "parent",
+        "sequence_id": 3,
+        "appname": "sideApp3",
+        "desc": "App 3",
+        "active": true
+      },
+      {
+        "id": 19,
+        "location": "leftNav",
+        "parent_id": 3,
+        "sequence_id": 1,
+        "appname": "sideApp3a",
+        "desc": "App 3a",
+        "active": true
+      },
+      {
+        "id": 20,
+        "location": "leftNav",
+        "parent_id": 3,
+        "sequence_id": 2,
+        "appname": "sideApp3b",
+        "desc": "App 3b",
+        "active": true
+      },
+      {
+        "id": 21,
+        "location": "leftNav",
+        "parent_id": "parent",
+        "sequence_id": 4,
+        "appname": "sideApp4",
+        "desc": "App 4",
+        "active": true
+      },
+      {
+        "id": 22,
+        "location": "leftNav",
+        "parent_id": 4,
+        "sequence_id": 1,
+        "appname": "sideApp4a",
+        "desc": "App 4a",
+        "active": true
+      },
+      {
+        "id": 23,
+        "location": "leftNav",
+        "parent_id": 4,
+        "sequence_id": 2,
+        "appname": "sideApp4b",
+        "desc": "App 4b",
+        "active": true
+      },
+      {
+        "id": 24,
+        "location": "leftNav",
+        "parent_id": null,
+        "sequence_id": 5,
+        "appname": "sideApp5",
+        "desc": "App 5",
+        "active": true
+      },
+      {
+        "id": 25,
+        "location": "leftNav",
+        "parent_id": null,
+        "sequence_id": 6,
+        "appname": "sideApp6",
+        "desc": "App 6",
+        "active": true
+      },
+      {
+        "id": 26,
+        "location": "leftNav",
+        "parent_id": null,
+        "sequence_id": 7,
+        "appname": "sideApp7",
+        "desc": "App 7",
+        "active": true
+      }      
     ],
     "appLinks": [
       {
@@ -495,6 +630,206 @@
         "appId": 11,
         "organizationId": 2,
         "roleId": 2
+      },
+      {
+        "appId": 12,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 13,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 24,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 25,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 26,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "appId": 12,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 13,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 24,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 25,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 26,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "appId": 12,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 13,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 14,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 15,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 16,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 17,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 18,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 19,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 20,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 21,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 22,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 23,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 24,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 25,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 26,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "appId": 12,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 13,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 14,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 15,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 16,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 17,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 18,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 19,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 20,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 21,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 22,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 23,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 24,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 25,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "appId": 26,
+        "organizationId": 2,
+        "roleId": 5
       }
     ]
   }
