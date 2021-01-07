@@ -4,91 +4,91 @@
       "id": 1,
       "email": "dmarcus@wir.com",
       "password": "member",
-      "organization": 1,
+      "organization": "Myriddian",
       "token": "1JAY345"
     },
     {
       "id": 2,
       "email": "ghammond@wir.com",
       "password": "member",
-      "organization": 1,
+      "organization": "Myriddian",
       "token": "2JAY345"
     },
     {
       "id": 3,
       "email": "jmyers@wir.com",
       "password": "member",
-      "organization": 1,
+      "organization": "Myriddian",
       "token": "3JAY345"
     },
     {
       "id": 4,
       "email": "mraillard@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "4JAY345"
     },
     {
       "id": 5,
       "email": "rhancock@wir.com",
       "password": "member",
-      "organization": 1,
+      "organization": "Myriddian",
       "token": "5JAY345"
     },
     {
       "id": 6,
       "email": "jray@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "6JAY345"
     },
     {
       "id": 7,
       "email": "azimmerman@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "7JAY345"
     },
     {
       "id": 8,
       "email": "vmedithi@wir.com",
       "password": "member",
-      "organization": 1,
+      "organization": "Myriddian",
       "token": "8JAY345"
     },
     {
       "id": 9,
       "email": "jcantrell@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "9JAY345"
     },
     {
       "id": 10,
       "email": "smendonsa@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "AJAY345"
     },
     {
       "id": 11,
       "email": "lletwo@wir.com",
       "password": "member",
-      "organization": 1,
+      "organization": "Myriddian",
       "token": "BJAY345"
     },
     {
       "id": 12,
       "email": "mnigussie@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "CJAY345"
     },
     {
       "id": 13,
       "email": "tnguyen@wir.com",
       "password": "member",
-      "organization": 2,
+      "organization": "Ablevets",
       "token": "DJAY345"
     }   
   ],
