@@ -476,7 +476,64 @@
         "modulename": "sideModule7",
         "desc": "Module 7",
         "active": true
-      }      
+      },
+      {
+        "id": 27,
+        "location": "leftNav",
+        "parent_id": "parent",
+        "sequence_id": 8,
+        "modulename": "",
+        "desc": "WIR-DEV Sprint 2",
+        "active": true
+    },
+    {	
+      "id": 28,
+      "location": "leftNav",
+      "parent_id": 8,
+      "sequence_id": 1,
+      "modulename": "patientSingleButton",
+      "desc": "Patient Single Button","active": true
+    },
+    {	
+      "id": 29,
+      "location": "leftNav",
+      "parent_id": 8,
+      "sequence_id": 2,
+      "modulename": "integratePortalAuth",
+      "desc": "Integrate Portal with authentication","active": true
+    },
+    {	
+      "id": 30,
+      "location": "leftNav",
+      "parent_id": 8,
+      "sequence_id": 3,
+      "modulename": "integratePortalApiRoles",
+      "desc": "Integrate Portal with database/API for roles","active": true
+    },
+    {	
+      "id": 31,
+      "location": "leftNav",
+      "parent_id": 8,
+      "sequence_id": 4,
+      "modulename": "patientSearch",
+      "desc": "UI/UX Patient Search","active": true
+    },
+    {	
+      "id": 32,
+      "location": "leftNav",
+      "parent_id": 8,
+      "sequence_id": 5,
+      "modulename": "patientDemographics",
+      "desc": "UI/UX for Patient Demographics","active": true
+    },
+    {	
+      "id": 33,
+      "location": "leftNav",
+      "parent_id": 8,
+      "sequence_id": 6,
+      "modulename": "userDemographics",
+      "desc": "UI/UX User Demographics","active": true
+    }
     ],
     "moduleLinks": [
       {
@@ -856,6 +913,151 @@
       },
       {
         "moduleId": 26,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 26,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 27,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 28,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 29,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 30,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 31,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 32,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 33,
+        "organizationId": 1,
+        "roleId": 2
+      },
+      {
+        "moduleId": 27,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 28,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 29,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 30,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 31,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 32,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 33,
+        "organizationId": 1,
+        "roleId": 5
+      },
+      {
+        "moduleId": 27,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 28,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 29,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 30,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 31,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 32,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 33,
+        "organizationId": 2,
+        "roleId": 2
+      },
+      {
+        "moduleId": 27,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 28,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 29,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 30,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 31,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 32,
+        "organizationId": 2,
+        "roleId": 5
+      },
+      {
+        "moduleId": 33,
         "organizationId": 2,
         "roleId": 5
       }
