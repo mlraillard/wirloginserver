@@ -242,14 +242,14 @@
           "orgname": "Tech Lead"
         }
     ],
-    "apps": [
+    "modules": [
       {
         "id": 1,
         "location": "headerLeft",
         "parent_id": null,
         "sequence_id": 1,
-        "appname": "appOne",
-        "desc": "App One",
+        "modulename": "moduleOne",
+        "desc": "Module One",
         "active": true
       },
       {
@@ -257,8 +257,8 @@
         "location": "headerLeft",
         "parent_id": null,
         "sequence_id": 2,
-        "appname": "appTwo",
-        "desc": "App Two",
+        "modulename": "moduleTwo",
+        "desc": "Module Two",
         "active": true
       },
       {
@@ -266,8 +266,8 @@
         "location": "headerLeft",
         "parent_id": "parent",
         "sequence_id": 3,
-        "appname": "",
-        "desc": "App Three",
+        "modulename": "",
+        "desc": "Module Three",
         "active": true
       },
       {
@@ -275,8 +275,8 @@
         "location": "headerLeft",
         "parent_id": 3,
         "sequence_id": 1,
-        "appname": "appThreeA",
-        "desc": "App Three A",
+        "modulename": "moduleThreeA",
+        "desc": "Module Three A",
         "active": true
       },
       {
@@ -284,8 +284,8 @@
         "location": "headerLeft",
         "parent_id": 3,
         "sequence_id": 2,
-        "appname": "appThreeB",
-        "desc": "App Three B",
+        "modulename": "moduleThreeB",
+        "desc": "Module Three B",
         "active": true
       },
       {
@@ -293,8 +293,8 @@
         "location": "headerLeft",
         "parent_id": 3,
         "sequence_id": 3,
-        "appname": "appThreeC",
-        "desc": "App Three C",
+        "modulename": "moduleThreeC",
+        "desc": "Module Three C",
         "active": true
       },
       {
@@ -302,8 +302,8 @@
         "location": "headerLeft",
         "parent_id": null,
         "sequence_id": 4,
-        "appname": "appFour",
-        "desc": "App Four",
+        "modulename": "moduleFour",
+        "desc": "Module Four",
         "active": true
       },
       {
@@ -311,8 +311,8 @@
         "location": "headerRight",
         "parent_id": null,
         "sequence_id": 1,
-        "appname": "appFive",
-        "desc": "App Five",
+        "modulename": "moduleFive",
+        "desc": "Module Five",
         "active": true
       },
       {
@@ -320,7 +320,7 @@
         "location": "headerAccount",
         "parent_id": "parent",
         "sequence_id": 2,
-        "appname": "",
+        "modulename": "",
         "desc": "App Account",
         "active": true
       },
@@ -329,7 +329,7 @@
         "location": "headerAccount",
         "parent_id": 9,
         "sequence_id": 1,
-        "appname": "appUserInfo",
+        "modulename": "appUserInfo",
         "desc": "App User Info",
         "active": true
       },
@@ -338,7 +338,7 @@
         "location": "headerRight",
         "parent_id": 9,
         "sequence_id": 2,
-        "appname": "appLogout",
+        "modulename": "appLogout",
         "desc": "App Logout",
         "active": true
       },
@@ -347,8 +347,8 @@
         "location": "leftNav",
         "parent_id": "parent",
         "sequence_id": 1,
-        "appname": "sideApp1",
-        "desc": "App 1",
+        "modulename": "sideModule1",
+        "desc": "Module 1",
         "active": true
       },
       {
@@ -356,7 +356,7 @@
         "location": "leftNav",
         "parent_id": 1,
         "sequence_id": 1,
-        "appname": "sideOneA",
+        "modulename": "sideOneA",
         "desc": "Side One A",
         "active": true
       },
@@ -365,8 +365,8 @@
         "location": "leftNav",
         "parent_id": 1,
         "sequence_id": 2,
-        "appname": "sideApp1b",
-        "desc": "App 1b",
+        "modulename": "sideModule1b",
+        "desc": "Module 1b",
         "active": true
       },
       {
@@ -374,8 +374,8 @@
         "location": "leftNav",
         "parent_id": "parent",
         "sequence_id": 2,
-        "appname": "sideApp2",
-        "desc": "App 2",
+        "modulename": "sideModule2",
+        "desc": "Module 2",
         "active": true
       },
       {
@@ -383,8 +383,8 @@
         "location": "leftNav",
         "parent_id": 2,
         "sequence_id": 1,
-        "appname": "sideApp2a",
-        "desc": "App 2a",
+        "modulename": "sideModule2a",
+        "desc": "Module 2a",
         "active": true
       },
       {
@@ -392,8 +392,8 @@
         "location": "leftNav",
         "parent_id": 2,
         "sequence_id": 2,
-        "appname": "sideApp2b",
-        "desc": "App 2b",
+        "modulename": "sideModule2b",
+        "desc": "Module 2b",
         "active": true
       },
       {
@@ -401,8 +401,8 @@
         "location": "leftNav",
         "parent_id": "parent",
         "sequence_id": 3,
-        "appname": "sideApp3",
-        "desc": "App 3",
+        "modulename": "sideModule3",
+        "desc": "Module 3",
         "active": true
       },
       {
@@ -410,8 +410,8 @@
         "location": "leftNav",
         "parent_id": 3,
         "sequence_id": 1,
-        "appname": "sideApp3a",
-        "desc": "App 3a",
+        "modulename": "sideModule3a",
+        "desc": "Module 3a",
         "active": true
       },
       {
@@ -419,8 +419,8 @@
         "location": "leftNav",
         "parent_id": 3,
         "sequence_id": 2,
-        "appname": "sideApp3b",
-        "desc": "App 3b",
+        "modulename": "sideModule3b",
+        "desc": "Module 3b",
         "active": true
       },
       {
@@ -428,8 +428,8 @@
         "location": "leftNav",
         "parent_id": "parent",
         "sequence_id": 4,
-        "appname": "sideApp4",
-        "desc": "App 4",
+        "modulename": "sideModule4",
+        "desc": "Module 4",
         "active": true
       },
       {
@@ -437,8 +437,8 @@
         "location": "leftNav",
         "parent_id": 4,
         "sequence_id": 1,
-        "appname": "sideApp4a",
-        "desc": "App 4a",
+        "modulename": "sideModule4a",
+        "desc": "Module 4a",
         "active": true
       },
       {
@@ -446,8 +446,8 @@
         "location": "leftNav",
         "parent_id": 4,
         "sequence_id": 2,
-        "appname": "sideApp4b",
-        "desc": "App 4b",
+        "modulename": "sideModule4b",
+        "desc": "Module 4b",
         "active": true
       },
       {
@@ -455,8 +455,8 @@
         "location": "leftNav",
         "parent_id": null,
         "sequence_id": 5,
-        "appname": "sideApp5",
-        "desc": "App 5",
+        "modulename": "sideModule5",
+        "desc": "Module 5",
         "active": true
       },
       {
@@ -464,8 +464,8 @@
         "location": "leftNav",
         "parent_id": null,
         "sequence_id": 6,
-        "appname": "sideApp6",
-        "desc": "App 6",
+        "modulename": "sideModule6",
+        "desc": "Module 6",
         "active": true
       },
       {
@@ -473,389 +473,389 @@
         "location": "leftNav",
         "parent_id": null,
         "sequence_id": 7,
-        "appname": "sideApp7",
-        "desc": "App 7",
+        "modulename": "sideModule7",
+        "desc": "Module 7",
         "active": true
       }      
     ],
-    "appLinks": [
+    "moduleLinks": [
       {
-        "appId": 1,
+        "moduleId": 1,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 2,
+        "moduleId": 2,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 3,
+        "moduleId": 3,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 4,
+        "moduleId": 4,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 5,
+        "moduleId": 5,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 6,
+        "moduleId": 6,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 7,
+        "moduleId": 7,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 8,
+        "moduleId": 8,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 9,
+        "moduleId": 9,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 10,
+        "moduleId": 10,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 11,
+        "moduleId": 11,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 1,
+        "moduleId": 1,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 2,
+        "moduleId": 2,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 3,
+        "moduleId": 3,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 4,
+        "moduleId": 4,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 5,
+        "moduleId": 5,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 6,
+        "moduleId": 6,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 7,
+        "moduleId": 7,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 8,
+        "moduleId": 8,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 9,
+        "moduleId": 9,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 10,
+        "moduleId": 10,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 11,
+        "moduleId": 11,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 1,
+        "moduleId": 1,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 3,
+        "moduleId": 3,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 4,
+        "moduleId": 4,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 5,
+        "moduleId": 5,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 9,
+        "moduleId": 9,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 10,
+        "moduleId": 10,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 11,
+        "moduleId": 11,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 1,
+        "moduleId": 1,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 3,
+        "moduleId": 3,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 4,
+        "moduleId": 4,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 5,
+        "moduleId": 5,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 9,
+        "moduleId": 9,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 10,
+        "moduleId": 10,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 11,
+        "moduleId": 11,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 12,
+        "moduleId": 12,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 13,
+        "moduleId": 13,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 24,
+        "moduleId": 24,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 25,
+        "moduleId": 25,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 26,
+        "moduleId": 26,
         "organizationId": 1,
         "roleId": 2
       },
       {
-        "appId": 12,
+        "moduleId": 12,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 13,
+        "moduleId": 13,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 24,
+        "moduleId": 24,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 25,
+        "moduleId": 25,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 26,
+        "moduleId": 26,
         "organizationId": 2,
         "roleId": 2
       },
       {
-        "appId": 12,
+        "moduleId": 12,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 13,
+        "moduleId": 13,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 14,
+        "moduleId": 14,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 15,
+        "moduleId": 15,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 16,
+        "moduleId": 16,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 17,
+        "moduleId": 17,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 18,
+        "moduleId": 18,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 19,
+        "moduleId": 19,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 20,
+        "moduleId": 20,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 21,
+        "moduleId": 21,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 22,
+        "moduleId": 22,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 23,
+        "moduleId": 23,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 24,
+        "moduleId": 24,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 25,
+        "moduleId": 25,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 26,
+        "moduleId": 26,
         "organizationId": 1,
         "roleId": 5
       },
       {
-        "appId": 12,
+        "moduleId": 12,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 13,
+        "moduleId": 13,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 14,
+        "moduleId": 14,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 15,
+        "moduleId": 15,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 16,
+        "moduleId": 16,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 17,
+        "moduleId": 17,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 18,
+        "moduleId": 18,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 19,
+        "moduleId": 19,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 20,
+        "moduleId": 20,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 21,
+        "moduleId": 21,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 22,
+        "moduleId": 22,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 23,
+        "moduleId": 23,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 24,
+        "moduleId": 24,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 25,
+        "moduleId": 25,
         "organizationId": 2,
         "roleId": 5
       },
       {
-        "appId": 26,
+        "moduleId": 26,
         "organizationId": 2,
         "roleId": 5
       }
