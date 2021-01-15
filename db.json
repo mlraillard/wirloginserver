@@ -90,976 +90,987 @@
       "password": "member",
       "organization": "Ablevets",
       "token": "DJAY345"
-    }   
+    }
   ],
-    "users": [
-      {
-        "id": 1,
-        "username": "dmarcus",
-        "email": "dmarcus@wir.com",
-        "password": "member",
-        "organization": 1,
-        "role": 2
-      },
-      {
-        "id": 2,
-        "username": "ghammond",
-        "email": "ghammond@wir.com",
-        "password": "member",
-        "organization": 1,
-        "role": 5
-      },
-      {
-        "id": 3,
-        "username": "jmyers",
-        "email": "jmyers@wir.com",
-        "password": "member",
-        "organization": 1,
-        "role": 2
-      },
-      {
-        "id": 4,
-        "username": "mraillard",
-        "email": "mraillard@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 5
-      },
-      {
-        "id": 5,
-        "username": "rhancock",
-        "email": "rhancock@wir.com",
-        "password": "member",
-        "organization": 1,
-        "role": 5
-      },
-      {
-        "id": 6,
-        "username": "jray",
-        "email": "jray@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 5
-      },
-      {
-        "id": 7,
-        "username": "azimmerman",
-        "email": "azimmerman@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 5
-      },
-      {
-        "id": 8,
-        "username": "vmedithi",
-        "email": "vmedithi@wir.com",
-        "password": "member",
-        "organization": 1,
-        "role": 2
-      },
-      {
-        "id": 9,
-        "username": "jcantrell",
-        "email": "jcantrell@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 2
-      },
-      {
-        "id": 10,
-        "username": "smendonsa",
-        "email": "smendonsa@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 2
-      },
-      {
-        "id": 11,
-        "username": "lletwo",
-        "email": "lletwo@wir.com",
-        "password": "member",
-        "organization": 1,
-        "role": 4
-      },
-      {
-        "id": 12,
-        "username": "mnigussie",
-        "email": "mnigussie@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 5
-      },
-      {
-        "id": 13,
-        "username": "nguyen",
-        "email": "tnguyen@wir.com",
-        "password": "member",
-        "organization": 2,
-        "role": 5
-      }      
-    ],
-    "organizations": [
-        {
-          "id": 1,
-          "desc": "Myriddian",
-          "orgname": "Myriddian"
-        },
-        {
-            "id": 2,
-            "desc": "Ablevets",
-            "orgname": "Ablevets"
-          }
-    ],
-    "roles": [
-        {
-          "id": 1,
-          "desc": "Administrator",
-          "orgname": "Administrator"
-        },
-        {
-            "id": 2,
-            "desc": "Project Manager",
-            "orgname": "Project Manager"
-        },
-        {
-          "id": 3,
-          "desc": "Healthcare Consultant",
-          "orgname": "Healthcare Consultant"
-        },
+  "users": [
+    {
+      "id": 1,
+      "username": "dmarcus",
+      "email": "dmarcus@wir.com",
+      "password": "member",
+      "organization": 1,
+      "role": 2
+    },
+    {
+      "id": 2,
+      "username": "ghammond",
+      "email": "ghammond@wir.com",
+      "password": "member",
+      "organization": 1,
+      "role": 5
+    },
+    {
+      "id": 3,
+      "username": "jmyers",
+      "email": "jmyers@wir.com",
+      "password": "member",
+      "organization": 1,
+      "role": 2
+    },
+    {
+      "id": 4,
+      "username": "mraillard",
+      "email": "mraillard@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 5
+    },
+    {
+      "id": 5,
+      "username": "rhancock",
+      "email": "rhancock@wir.com",
+      "password": "member",
+      "organization": 1,
+      "role": 5
+    },
+    {
+      "id": 6,
+      "username": "jray",
+      "email": "jray@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 5
+    },
+    {
+      "id": 7,
+      "username": "azimmerman",
+      "email": "azimmerman@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 5
+    },
+    {
+      "id": 8,
+      "username": "vmedithi",
+      "email": "vmedithi@wir.com",
+      "password": "member",
+      "organization": 1,
+      "role": 2
+    },
+    {
+      "id": 9,
+      "username": "jcantrell",
+      "email": "jcantrell@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 2
+    },
+    {
+      "id": 10,
+      "username": "smendonsa",
+      "email": "smendonsa@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 2
+    },
+    {
+      "id": 11,
+      "username": "lletwo",
+      "email": "lletwo@wir.com",
+      "password": "member",
+      "organization": 1,
+      "role": 4
+    },
+    {
+      "id": 12,
+      "username": "mnigussie",
+      "email": "mnigussie@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 5
+    },
+    {
+      "id": 13,
+      "username": "nguyen",
+      "email": "tnguyen@wir.com",
+      "password": "member",
+      "organization": 2,
+      "role": 5
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "display": "Myriddian",
+      "orgname": "Myriddian"
+    },
+    {
+      "id": 2,
+      "display": "Ablevets",
+      "orgname": "Ablevets"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "display": "Administrator",
+      "orgname": "Administrator"
+    },
+    {
+      "id": 2,
+      "display": "Project Manager",
+      "orgname": "Project Manager"
+    },
+    {
+      "id": 3,
+      "display": "Healthcare Consultant",
+      "orgname": "Healthcare Consultant"
+    },
+    {
+      "id": 4,
+      "display": "Unassigned",
+      "orgname": "Unassigned"
+    },
+    {
+      "id": 5,
+      "display": "Developer",
+      "orgname": "Developer"
+    },
+    {
+      "id": 6,
+      "display": "Tech Lead",
+      "orgname": "Tech Lead"
+    }
+  ],
+  "modules":  [
+    {
+      "id": 1,
+      "location": "headerLeft",
+      "parent_id": null,
+      "sequence_id": 1,
+      "actionName": "moduleOne",
+      "display": "Module One",
+      "active": true
+    },
+    {
+      "id": 2,
+      "location": "headerLeft",
+      "parent_id": null,
+      "sequence_id": 2,
+      "actionName": "moduleTwo",
+      "display": "Module Two",
+      "active": true
+    },
+    {
+      "id": 3,
+      "location": "headerLeft",
+      "parent_id": "parent",
+      "sequence_id": 3,
+      "actionName": "",
+      "display": "Module Three",
+      "active": true,
+      "children": [
         {
           "id": 4,
-          "desc": "Unassigned",
-          "orgname": "Unassigned"
+          "location": "headerLeft",
+          "parent_id": 3,
+          "sequence_id": 1,
+          "actionName": "moduleThreeA",
+          "display": "Module Three A",
+          "active": true
         },
         {
           "id": 5,
-          "desc": "Developer",
-          "orgname": "Developer"
+          "location": "headerLeft",
+          "parent_id": 3,
+          "sequence_id": 2,
+          "actionName": "moduleThreeB",
+          "display": "Module Three B",
+          "active": true
         },
         {
           "id": 6,
-          "desc": "Tech Lead",
-          "orgname": "Tech Lead"
+          "location": "headerLeft",
+          "parent_id": 3,
+          "sequence_id": 3,
+          "actionName": "moduleThreeC",
+          "display": "Module Three C",
+          "active": true
         }
-    ],
-    "modules": [
-      {
-        "id": 1,
-        "location": "headerLeft",
-        "parent_id": null,
-        "sequence_id": 1,
-        "modulename": "moduleOne",
-        "desc": "Module One",
-        "active": true
-      },
-      {
-        "id": 2,
-        "location": "headerLeft",
-        "parent_id": null,
-        "sequence_id": 2,
-        "modulename": "moduleTwo",
-        "desc": "Module Two",
-        "active": true
-      },
-      {
-        "id": 3,
-        "location": "headerLeft",
-        "parent_id": "parent",
-        "sequence_id": 3,
-        "modulename": "",
-        "desc": "Module Three",
-        "active": true
-      },
-      {
-        "id": 4,
-        "location": "headerLeft",
-        "parent_id": 3,
-        "sequence_id": 1,
-        "modulename": "moduleThreeA",
-        "desc": "Module Three A",
-        "active": true
-      },
-      {
-        "id": 5,
-        "location": "headerLeft",
-        "parent_id": 3,
-        "sequence_id": 2,
-        "modulename": "moduleThreeB",
-        "desc": "Module Three B",
-        "active": true
-      },
-      {
-        "id": 6,
-        "location": "headerLeft",
-        "parent_id": 3,
-        "sequence_id": 3,
-        "modulename": "moduleThreeC",
-        "desc": "Module Three C",
-        "active": true
-      },
-      {
-        "id": 7,
-        "location": "headerLeft",
-        "parent_id": null,
-        "sequence_id": 4,
-        "modulename": "moduleFour",
-        "desc": "Module Four",
-        "active": true
-      },
-      {
-        "id": 8,
-        "location": "headerRight",
-        "parent_id": null,
-        "sequence_id": 1,
-        "modulename": "moduleFive",
-        "desc": "Module Five",
-        "active": true
-      },
-      {
-        "id": 9,
-        "location": "headerAccount",
-        "parent_id": "parent",
-        "sequence_id": 2,
-        "modulename": "",
-        "desc": "App Account",
-        "active": true
-      },
-      {
-        "id": 10,
-        "location": "headerAccount",
-        "parent_id": 9,
-        "sequence_id": 1,
-        "modulename": "appUserInfo",
-        "desc": "App User Info",
-        "active": true
-      },
-      {
-        "id": 11,
-        "location": "headerRight",
-        "parent_id": 9,
-        "sequence_id": 2,
-        "modulename": "appLogout",
-        "desc": "App Logout",
-        "active": true
-      },
-      {
-        "id": 12,
-        "location": "leftNav",
-        "parent_id": "parent",
-        "sequence_id": 1,
-        "modulename": "sideModule1",
-        "desc": "Module 1",
-        "active": true
-      },
-      {
-        "id": 13,
-        "location": "leftNav",
-        "parent_id": 1,
-        "sequence_id": 1,
-        "modulename": "sideOneA",
-        "desc": "Side One A",
-        "active": true
-      },
-      {
-        "id": 14,
-        "location": "leftNav",
-        "parent_id": 1,
-        "sequence_id": 2,
-        "modulename": "sideModule1b",
-        "desc": "Module 1b",
-        "active": true
-      },
-      {
-        "id": 15,
-        "location": "leftNav",
-        "parent_id": "parent",
-        "sequence_id": 2,
-        "modulename": "sideModule2",
-        "desc": "Module 2",
-        "active": true
-      },
-      {
-        "id": 16,
-        "location": "leftNav",
-        "parent_id": 2,
-        "sequence_id": 1,
-        "modulename": "sideModule2a",
-        "desc": "Module 2a",
-        "active": true
-      },
-      {
-        "id": 17,
-        "location": "leftNav",
-        "parent_id": 2,
-        "sequence_id": 2,
-        "modulename": "sideModule2b",
-        "desc": "Module 2b",
-        "active": true
-      },
-      {
-        "id": 18,
-        "location": "leftNav",
-        "parent_id": "parent",
-        "sequence_id": 3,
-        "modulename": "sideModule3",
-        "desc": "Module 3",
-        "active": true
-      },
-      {
-        "id": 19,
-        "location": "leftNav",
-        "parent_id": 3,
-        "sequence_id": 1,
-        "modulename": "sideModule3a",
-        "desc": "Module 3a",
-        "active": true
-      },
-      {
-        "id": 20,
-        "location": "leftNav",
-        "parent_id": 3,
-        "sequence_id": 2,
-        "modulename": "sideModule3b",
-        "desc": "Module 3b",
-        "active": true
-      },
-      {
-        "id": 21,
-        "location": "leftNav",
-        "parent_id": "parent",
-        "sequence_id": 4,
-        "modulename": "sideModule4",
-        "desc": "Module 4",
-        "active": true
-      },
-      {
-        "id": 22,
-        "location": "leftNav",
-        "parent_id": 4,
-        "sequence_id": 1,
-        "modulename": "sideModule4a",
-        "desc": "Module 4a",
-        "active": true
-      },
-      {
-        "id": 23,
-        "location": "leftNav",
-        "parent_id": 4,
-        "sequence_id": 2,
-        "modulename": "sideModule4b",
-        "desc": "Module 4b",
-        "active": true
-      },
-      {
-        "id": 24,
-        "location": "leftNav",
-        "parent_id": null,
-        "sequence_id": 5,
-        "modulename": "sideModule5",
-        "desc": "Module 5",
-        "active": true
-      },
-      {
-        "id": 25,
-        "location": "leftNav",
-        "parent_id": null,
-        "sequence_id": 6,
-        "modulename": "sideModule6",
-        "desc": "Module 6",
-        "active": true
-      },
-      {
-        "id": 26,
-        "location": "leftNav",
-        "parent_id": null,
-        "sequence_id": 7,
-        "modulename": "sideModule7",
-        "desc": "Module 7",
-        "active": true
-      },
-      {
-        "id": 27,
-        "location": "leftNav",
-        "parent_id": "parent",
-        "sequence_id": 8,
-        "modulename": "",
-        "desc": "WIR-DEV Sprint 2",
-        "active": true
+      ]
     },
-    {	
-      "id": 28,
-      "location": "leftNav",
-      "parent_id": 8,
-      "sequence_id": 1,
-      "modulename": "patientSingleButton",
-      "desc": "Patient Single Button","active": true
-    },
-    {	
-      "id": 29,
-      "location": "leftNav",
-      "parent_id": 8,
-      "sequence_id": 2,
-      "modulename": "integratePortalAuth",
-      "desc": "Integrate Portal with authentication","active": true
-    },
-    {	
-      "id": 30,
-      "location": "leftNav",
-      "parent_id": 8,
-      "sequence_id": 3,
-      "modulename": "integratePortalApiRoles",
-      "desc": "Integrate Portal with database/API for roles","active": true
-    },
-    {	
-      "id": 31,
-      "location": "leftNav",
-      "parent_id": 8,
+    {
+      "id": 7,
+      "location": "headerLeft",
+      "parent_id": null,
       "sequence_id": 4,
-      "modulename": "patientSearch",
-      "desc": "UI/UX Patient Search","active": true
+      "actionName": "moduleFour",
+      "display": "Module Four",
+      "active": true
     },
-    {	
-      "id": 32,
+    {
+      "id": 8,
+      "location": "headerRight",
+      "parent_id": null,
+      "sequence_id": 1,
+      "actionName": "moduleFive",
+      "display": "Module Five",
+      "active": true
+    },
+    {
+      "id": 9,
+      "location": "headerAccount",
+      "parent_id": "parent",
+      "sequence_id": 2,
+      "actionName": "",
+      "display": "App Account",
+      "active": true,
+      "children": [
+        {
+          "id": 10,
+          "location": "headerAccount",
+          "parent_id": 9,
+          "sequence_id": 1,
+          "actionName": "appUserInfo",
+          "display": "App User Info",
+          "active": true
+        },
+        {
+          "id": 11,
+          "location": "headerAccount",
+          "parent_id": 9,
+          "sequence_id": 2,
+          "actionName": "appLogout",
+          "display": "App Logout",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 12,
       "location": "leftNav",
-      "parent_id": 8,
+      "parent_id": "parent",
+      "sequence_id": 1,
+      "actionName": "organization",
+      "display": "Organization",
+      "active": true,
+      "children": [
+        {
+          "id": 13,
+          "location": "leftNav",
+          "parent_id": 12,
+          "sequence_id": 1,
+          "actionName": "createOrganization",
+          "display": "Create Organizations",
+          "active": true
+        },
+        {
+          "id": 14,
+          "location": "leftNav",
+          "parent_id": 12,
+          "sequence_id": 2,
+          "actionName": "editOrganization",
+          "display": "Edit Organization",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "location": "leftNav",
+      "parent_id": "parent",
+      "sequence_id": 2,
+      "actionName": "userManagement",
+      "display": "User Management",
+      "active": true,
+      "children": [
+        {
+          "id": 16,
+          "location": "leftNav",
+          "parent_id": 15,
+          "sequence_id": 1,
+          "actionName": "createUser",
+          "display": "Create User",
+          "active": true
+        },
+        {
+          "id": 17,
+          "location": "leftNav",
+          "parent_id": 15,
+          "sequence_id": 2,
+          "actionName": "editUser",
+          "display": "Edit User",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "location": "leftNav",
+      "parent_id": "parent",
+      "sequence_id": 3,
+      "actionName": "patients",
+      "display": "Patients",
+      "active": true,
+      "children": [
+        {
+          "id": 19,
+          "location": "leftNav",
+          "parent_id": 18,
+          "sequence_id": 1,
+          "actionName": "createPatient",
+          "display": "Create Patient",
+          "active": true
+        },
+        {
+          "id": 20,
+          "location": "leftNav",
+          "parent_id": 18,
+          "sequence_id": 2,
+          "actionName": "editPatient",
+          "display": "Edit Patient",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "location": "leftNav",
+      "parent_id": "parent",
+      "sequence_id": 4,
+      "actionName": "sideModule4",
+      "display": "Module 4",
+      "active": true,
+      "children": [
+        {
+          "id": 22,
+          "location": "leftNav",
+          "parent_id": 21,
+          "sequence_id": 1,
+          "actionName": "sideModule4a",
+          "display": "Module 4a",
+          "active": true
+        },
+        {
+          "id": 23,
+          "location": "leftNav",
+          "parent_id": 21,
+          "sequence_id": 2,
+          "actionName": "sideModule4b",
+          "display": "Module 4b",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "location": "leftNav",
+      "parent_id": null,
       "sequence_id": 5,
-      "modulename": "patientDemographics",
-      "desc": "UI/UX for Patient Demographics","active": true
+      "actionName": "sideModule5",
+      "display": "Module 5",
+      "active": true
     },
-    {	
-      "id": 33,
+    {
+      "id": 25,
       "location": "leftNav",
-      "parent_id": 8,
+      "parent_id": null,
       "sequence_id": 6,
-      "modulename": "userDemographics",
-      "desc": "UI/UX User Demographics","active": true
+      "actionName": "sideModule6",
+      "display": "Module 6",
+      "active": true
+    },
+    {
+      "id": 26,
+      "location": "leftNav",
+      "parent_id": null,
+      "sequence_id": 7,
+      "actionName": "sideModule7",
+      "display": "Module 7",
+      "active": true
+    },
+    {
+      "id": 27,
+      "location": "leftNav",
+      "parent_id": "parent",
+      "sequence_id": 8,
+      "actionName": "",
+      "display": "WIR-DEV Sprint 2",
+      "active": true,
+      "children": [
+        {
+          "id": 28,
+          "location": "leftNav",
+          "parent_id": 27,
+          "sequence_id": 1,
+          "actionName": "patientSingleButton",
+          "display": "Patient Single Button","active": true
+        },
+        {
+          "id": 29,
+          "location": "leftNav",
+          "parent_id": 27,
+          "sequence_id": 2,
+          "actionName": "integratePortalAuth",
+          "display": "Integrate Portal with authentication","active": true
+        },
+        {
+          "id": 30,
+          "location": "leftNav",
+          "parent_id": 27,
+          "sequence_id": 3,
+          "actionName": "integratePortalApiRoles",
+          "display": "Integrate Portal with database/API for roles","active": true
+        },
+        {
+          "id": 31,
+          "location": "leftNav",
+          "parent_id": 27,
+          "sequence_id": 4,
+          "actionName": "patientSearch",
+          "display": "UI/UX Patient Search","active": true
+        },
+        {
+          "id": 32,
+          "location": "leftNav",
+          "parent_id": 27,
+          "sequence_id": 5,
+          "actionName": "patientDemographics",
+          "display": "UI/UX for Patient Demographics","active": true
+        },
+        {
+          "id": 33,
+          "location": "leftNav",
+          "parent_id": 8,
+          "sequence_id": 6,
+          "actionName": "userDemographics",
+          "display": "UI/UX User Demographics","active": true
+        }
+      ]
     }
-    ],
-    "moduleLinks": [
-      {
-        "moduleId": 1,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 2,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 3,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 4,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 5,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 6,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 7,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 8,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 9,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 10,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 11,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 1,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 2,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 3,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 4,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 5,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 6,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 7,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 8,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 9,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 10,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 11,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 1,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 3,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 4,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 5,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 9,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 10,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 11,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 1,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 3,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 4,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 5,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 9,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 10,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 11,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 12,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 13,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 24,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 25,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 26,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 12,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 13,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 24,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 25,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 26,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 12,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 13,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 14,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 15,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 16,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 17,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 18,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 19,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 20,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 21,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 22,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 23,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 24,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 25,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 26,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 12,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 13,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 14,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 15,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 16,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 17,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 18,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 19,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 20,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 21,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 22,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 23,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 24,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 25,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 26,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 26,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 27,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 28,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 29,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 30,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 31,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 32,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 33,
-        "organizationId": 1,
-        "roleId": 2
-      },
-      {
-        "moduleId": 27,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 28,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 29,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 30,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 31,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 32,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 33,
-        "organizationId": 1,
-        "roleId": 5
-      },
-      {
-        "moduleId": 27,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 28,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 29,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 30,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 31,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 32,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 33,
-        "organizationId": 2,
-        "roleId": 2
-      },
-      {
-        "moduleId": 27,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 28,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 29,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 30,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 31,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 32,
-        "organizationId": 2,
-        "roleId": 5
-      },
-      {
-        "moduleId": 33,
-        "organizationId": 2,
-        "roleId": 5
-      }
-    ]
-  }
+  ],
+
+
+  "moduleLinks": [
+    {
+      "moduleId": 1,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 2,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 3,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 4,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 5,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 6,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 7,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 8,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 9,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 10,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 11,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 1,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 2,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 3,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 4,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 5,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 6,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 7,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 8,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 9,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 10,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 11,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 1,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 3,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 4,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 5,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 9,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 10,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 11,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 1,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 3,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 4,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 5,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 9,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 10,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 11,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 12,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 13,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 24,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 25,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 26,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 12,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 13,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 24,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 25,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 26,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 12,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 13,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 14,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 15,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 16,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 17,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 18,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 19,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 20,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 21,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 22,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 23,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 24,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 25,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 26,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 12,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 13,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 14,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 15,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 16,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 17,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 18,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 19,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 20,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 21,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 22,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 23,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 24,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 25,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 26,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 27,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 28,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 29,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 30,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 31,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 32,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 33,
+      "organizationId": 1,
+      "roleId": 2
+    },
+    {
+      "moduleId": 27,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 28,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 29,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 30,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 31,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 32,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 33,
+      "organizationId": 1,
+      "roleId": 5
+    },
+    {
+      "moduleId": 27,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 28,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 29,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 30,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 31,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 32,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 33,
+      "organizationId": 2,
+      "roleId": 2
+    },
+    {
+      "moduleId": 27,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 28,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 29,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 30,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 31,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 32,
+      "organizationId": 2,
+      "roleId": 5
+    },
+    {
+      "moduleId": 33,
+      "organizationId": 2,
+      "roleId": 5
+    }
+  ]
+}
